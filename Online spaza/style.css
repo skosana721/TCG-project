@@ -1,0 +1,30 @@
+body{
+    
+    background-color: blue;
+    text-align: center;
+    background-image: linear-gradient( aqua, yellow , grey )
+    
+}
+div{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    
+}
+dt {
+    font-size: 30px;
+    font-style: italic;
+}
+button{
+    background-color: whitesmoke;
+    color: black;
+    border: 2px solid #008CBA;
+    font-size: 20px; 
+    margin: 4px 2px;
+    padding: 16px 30px;
+}
+ 
+img{
+    width: 400px;
+    height: auto;
+}
