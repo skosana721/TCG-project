@@ -38,10 +38,7 @@ img{
     height: auto;
     border-radius: 2%;
 }
-button :hover {
-    background-color: blue ;
-    color: yellowgreen;
-}
+
 dd{
     font-weight: bold;
     font-size: 16px;
