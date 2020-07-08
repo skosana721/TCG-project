@@ -22,9 +22,15 @@ button{
     font-size: 20px; 
     margin: 4px 2px;
     padding: 16px 30px;
+    border-radius: 5%;
 }
  
 img{
     width: 400px;
     height: auto;
+    border-radius: 2%;
+}
+button :hover {
+    background-color: blue ;
+    color: yellowgreen;
 }
