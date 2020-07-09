@@ -20,7 +20,7 @@
         
     }
     h1{
-        color: white;
+        color: black        ;
         text-align: center;
         font-size: 100px;
     } 
@@ -40,5 +40,9 @@
     100%{
         color: blue;
     }
+  }
+  .grid{
+      display: grid;
+    
   }
     
