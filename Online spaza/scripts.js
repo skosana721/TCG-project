@@ -1,4 +1,5 @@
 // Stores the item data
-localStorage.setItem("name", "John");
+localStorage.setItem("firstName", '<input type="name">';
 // Retrieves the data
-document.getElementById("res").innerHTML = localStorage.getItem("name");    
+document.getElementById("result").innerHTML = localStorage.getItem("firstName"); 
+localStorage.setItem(lastName);
