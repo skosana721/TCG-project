@@ -1,4 +1,4 @@
-document.getElementById("btnInsert").onclick =  data ={};
+
 var data = {
     firstName: 'Tim',
     lastName: 'James',
